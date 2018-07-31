@@ -3,7 +3,8 @@ using namespace std;
 
 /* checkPrime.cpp
 
-Description: This program verifies if a given integer is prime or not. 
+Description: This program verifies if a given integer is prime or not.
+
 */
 
 int main()

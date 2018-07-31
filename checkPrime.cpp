@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/* checkPrime.cpp
+
+Description: This program verifies if a given integer is prime or not. 
+*/
+
 int main()
 {
   int n, i;

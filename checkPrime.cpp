@@ -23,7 +23,8 @@ int main()
           break;
       }
   }
-  if (isPrime)
+
+  if (isPrime) // if isPrime = true 
       cout << "This is a prime number";
   else
       cout << "This is not a prime number";

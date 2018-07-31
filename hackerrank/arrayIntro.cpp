@@ -6,6 +6,7 @@
 using namespace std;
 
 /* Array Introductions: Hacker Rank Problem solution
+Author: Yadiel F. Cabrera
 
 Description:
 This is my solution to the exercise on HackerRank for Introduction to
